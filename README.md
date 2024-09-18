@@ -17,7 +17,7 @@ Coming soon......
 
 # Performance
 
-We present the results of our model on LawBench, which is a comprehensive dataset designed to systematically test the judicial capabilities of large language models. It consists of 20 tasks that analyze the legal prowess of large language models across three cognitive dimensions: memory, understanding, and application. 
+We present the results of our model on LawBench, which is a comprehensive dataset designed to systematically test the judicial capabilities of large language models. It consists of 20 tasks that analyze the legal ability of large language models across three cognitive dimensions: memory, understanding, and application. 
 
 | Models             | Model Type | Memorization | Understanding | Application | Avg  |
 | ------------------ | ---------- | ------------ | ------------- | ----------- | ---- |
