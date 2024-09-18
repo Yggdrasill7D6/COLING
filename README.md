@@ -5,7 +5,7 @@ A state-of-the-art Chinese Legal LLM.
 
 # Introduction
 - **7B legal LLM with better than ChatGPT even GPT4 performances.**  InternLM-Law is SFT with ~2M high-quality and diversity supervised data based on the InternLM2-Chat model.  We adopt a two-stage supervised fine-tuning to balance both legal tasks performance and legal consultation performance. During training, we set the length to 32k to enable the model to handle long text in the legal field.
-- **A model capable of utilizing tools to assist in resolving legal issues. ** Our model is able to write Python code to solve numerical computation problems in the legal domain, thereby enhancing its accuracy on certain issues. Additionally, our model can integrate with existing popular frameworks to further improve its efficacy.
+- **A model capable of utilizing tools to assist in resolving legal issues.** Our model is able to write Python code to solve numerical computation problems in the legal domain, thereby enhancing its accuracy on certain issues. Additionally, our model can integrate with existing popular frameworks to further improve its efficacy.
 - **A legal large language model capable of serving multiple scenarios.** In the field of intelligent judiciary, there are various audiences. Our model is not only able to serve legal professionals but also caters to the general public. It can not only perform legal-related NLP (Natural Language Processing) tasks very well but also provide excellent legal consultation services. This enables it to integrate with various judicial systems and offer services to experts. At the same time, it can also provide legal consulting services to ordinary users, catering to the needs of different clients.
 
 ![](./figs/law_bench_radar_plot.png)
