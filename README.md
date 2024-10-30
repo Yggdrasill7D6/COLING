@@ -12,7 +12,7 @@ A state-of-the-art Chinese Legal LLM.
 
 # Models
 
-Coming soon......
+[Huggingface Link](https://huggingface.co/LoL15/InternLM-Law)
 
 
 # Performance
